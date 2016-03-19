@@ -11,7 +11,7 @@
   <title>{% block title %}{% endblock %}</title>
 </head>
 
-<body itemscope itemtype="http://schema.org/WebPage" lang="{{ config.language }}">
+<body itemscope itemtype="http://schema.org/WebPage" lang="{{ config.language }}" style="background: url('http://7xawr2.com1.z0.glb.clouddn.com/compton.jpg');background-position: 0% 0%;background-attachment: fixed;">
 
   {% include '_scripts/third-party/analytics.swig' %}
 
